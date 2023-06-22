@@ -10,10 +10,19 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
     "@headlessui/react": "^1.7.15",
     "@heroicons/react": "^2.0.18",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.5",
+    "@mui/styled-engine": "^5.13.2",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "apollo-boost": "^0.4.9",
+    "graphql": "^16.7.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-apollo": "^3.1.5",
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.0.0-rc.3"
   },
   "devDependencies": {
     "@types/react": "^18.0.37",

@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_shared_rits",
+  "info": {
+    "displayName": "rit"
+  },
+  "options": {},
+  "attributes": {
+    "asdf": {
+      "type": "richtext"
+    }
+  }
+}
